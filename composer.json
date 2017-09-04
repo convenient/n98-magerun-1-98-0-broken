@@ -1,0 +1,26 @@
+{
+    "name": "convenient/n98-magerun-broken",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.firegento.com"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Luke Rodgers",
+            "email": "lukerodgers90@gmail.com"
+        }
+    ],
+    "require": {
+        "aydin-hassan/magento-core-composer-installer": "^1.5",
+        "magento/core": "1.9.2.4-patch3",
+        "magento-hackathon/magento-composer-installer": "^3.1"
+    },
+    "extra": {
+        "magento-root-dir": "htdocs",
+        "magento-core-deploy": {
+            "git-ignore-enable": false
+        }
+    }
+}

@@ -1,0 +1,5 @@
+/vendor/
+.idea
+htdocs
+/bin
+.php-version
