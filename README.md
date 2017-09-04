@@ -1,6 +1,6 @@
 # n98-magerun 1.98.0 broken
 
-Demonstrat Magento instantiation error introduced as part of [magerun 1.98.0](https://github.com/netz98/n98-magerun/releases/tag/1.98.0), it appears this version has an incompatibility with `magento-hackathon/magento-composer-installer`.
+Demonstrate Magento instantiation error introduced as part of [magerun 1.98.0](https://github.com/netz98/n98-magerun/releases/tag/1.98.0), it appears this version has an incompatibility with `magento-hackathon/magento-composer-installer`.
 
 * [To Replicate](#to-replicate)
   * [Prepare a local magento instance](#prepare-a-local-magento-instance)
